@@ -1,0 +1,17 @@
+[01-Apr-2013 15:23:22 Europe/Warsaw] PHP Warning:  require_once(.php): failed to open stream: No such file or directory in /home/gaming/public_html/files/template/content.php on line 17
+[01-Apr-2013 15:23:22 Europe/Warsaw] PHP Fatal error:  require_once(): Failed opening required '.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gaming/public_html/files/template/content.php on line 17
+[01-Apr-2013 15:23:24 Europe/Warsaw] PHP Warning:  require_once(modules.php): failed to open stream: No such file or directory in /home/gaming/public_html/files/template/aside.php on line 3
+[01-Apr-2013 15:23:24 Europe/Warsaw] PHP Fatal error:  require_once(): Failed opening required 'modules.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gaming/public_html/files/template/aside.php on line 3
+[01-Apr-2013 15:23:25 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/files/template/menu.php on line 11
+[01-Apr-2013 15:23:26 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/files/template/top.php on line 21
+[04-Jan-2014 18:19:14 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/zaklady/files/template/top.php on line 9
+[04-Jan-2014 18:19:38 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/zaklady/files/template/menu.php on line 6
+[04-Jan-2014 18:20:13 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/zaklady/files/template/header.php on line 2
+[04-Jan-2014 18:20:37 Europe/Warsaw] PHP Warning:  require_once(.php): failed to open stream: No such file or directory in /home/gaming/public_html/zaklady/files/template/content.php on line 30
+[04-Jan-2014 18:20:37 Europe/Warsaw] PHP Fatal error:  require_once(): Failed opening required '.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gaming/public_html/zaklady/files/template/content.php on line 30
+[07-Feb-2014 08:03:40 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/zaklady/files/template/menu.php on line 6
+[05-Mar-2014 03:47:24 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/zaklady/files/template/top.php on line 9
+[05-Mar-2014 03:47:29 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/zaklady/files/template/menu.php on line 6
+[05-Mar-2014 03:47:45 Europe/Warsaw] PHP Fatal error:  Call to a member function query() on a non-object in /home/gaming/public_html/zaklady/files/template/header.php on line 18
+[05-Mar-2014 03:47:55 Europe/Warsaw] PHP Warning:  require_once(.php): failed to open stream: No such file or directory in /home/gaming/public_html/zaklady/files/template/content.php on line 30
+[05-Mar-2014 03:47:55 Europe/Warsaw] PHP Fatal error:  require_once(): Failed opening required '.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gaming/public_html/zaklady/files/template/content.php on line 30

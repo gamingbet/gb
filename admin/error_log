@@ -1,0 +1,34 @@
+[18-May-2013 21:55:58 Europe/Warsaw] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/gaming/public_html/admin/php/users.edit.php on line 159
+[19-May-2013 10:09:16 Europe/Warsaw] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/gaming/public_html/admin/php/gamings.edit.php on line 272
+[06-Jun-2013 23:14:50 Europe/Warsaw] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/gaming/public_html/admin/php/gamings.edit.php on line 275
+[09-Jun-2013 23:35:40 Europe/Warsaw] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/gaming/public_html/admin/php/gamings.edit.php on line 275
+[10-Jun-2013 21:02:31 Europe/Warsaw] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/gaming/public_html/admin/php/gamings.edit.php on line 275
+[19-Jul-2013 01:06:47 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/admin/php/matches.finish.php on line 55
+[01-Sep-2013 23:59:41 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[01-Sep-2013 23:59:58 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[03-Sep-2013 23:36:31 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[05-Sep-2013 18:20:29 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[05-Sep-2013 18:42:14 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[05-Sep-2013 18:42:33 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[05-Sep-2013 18:43:03 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[10-Sep-2013 10:39:45 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[10-Sep-2013 10:44:16 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[06-Jan-2014 18:39:29 Europe/Warsaw] PHP Warning:  require_once(/_functions.php): failed to open stream: No such file or directory in /home/gaming/public_html/zaklady/admin/index.php on line 9
+[06-Jan-2014 18:39:29 Europe/Warsaw] PHP Fatal error:  require_once(): Failed opening required '/_functions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gaming/public_html/zaklady/admin/index.php on line 9
+[02-Feb-2014 21:14:36 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 147
+[02-Feb-2014 21:16:12 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.finish.php on line 109
+[03-Feb-2014 17:39:08 Europe/Warsaw] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid image: /tmp/phpjqoKFI' in /home/gaming/public_html/zaklady/admin/php/SimpleImage.php:81
+Stack trace:
+#0 /home/gaming/public_html/zaklady/admin/php/SimpleImage.php(41): abeautifulsite\SimpleImage->load('/tmp/phpjqoKFI')
+#1 /home/gaming/public_html/zaklady/admin/php/matches.add.php(38): abeautifulsite\SimpleImage->__construct('/tmp/phpjqoKFI')
+#2 /home/gaming/public_html/zaklady/admin/index.php(515): require_once('/home/gaming/pu...')
+#3 {main}
+  thrown in /home/gaming/public_html/zaklady/admin/php/SimpleImage.php on line 81
+[06-Feb-2014 21:35:58 Europe/Warsaw] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/gaming/public_html/zaklady/admin/php/gamings.edit.php on line 556
+[08-Feb-2014 13:48:33 Europe/Warsaw] PHP Fatal error:  Undefined class constant 'AD' in /home/gaming/public_html/zaklady/admin/php/matches.edit.php on line 94
+[09-Apr-2014 19:26:06 Europe/Warsaw] PHP Notice:  Undefined variable: _LANG in /home/gaming/public_html/nowy/admin/index.php on line 597
+[09-Apr-2014 19:26:06 Europe/Warsaw] PHP Notice:  Undefined variable: _LANG in /home/gaming/public_html/nowy/admin/index.php on line 597
+[09-Apr-2014 19:26:06 Europe/Warsaw] PHP Notice:  Undefined variable: _LANG in /home/gaming/public_html/nowy/admin/index.php on line 597
+[09-Apr-2014 19:26:09 Europe/Warsaw] PHP Notice:  Undefined variable: _LANG in /home/gaming/public_html/nowy/admin/index.php on line 597
+[09-Apr-2014 19:26:09 Europe/Warsaw] PHP Notice:  Undefined variable: _LANG in /home/gaming/public_html/nowy/admin/index.php on line 597
+[09-Apr-2014 19:26:09 Europe/Warsaw] PHP Notice:  Undefined variable: _LANG in /home/gaming/public_html/nowy/admin/index.php on line 597
